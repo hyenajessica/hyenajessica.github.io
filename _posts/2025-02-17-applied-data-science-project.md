@@ -6,6 +6,7 @@ categories: ITD214
 ---
 ## Project Background
 **Business Goal:** Analyse global news, industry discussions, government policies, and customer feedback from Jan 2024 till-date, to help Tech giant (Apple) identify risks and/or opportunities and plan for its next iPhone^ rollout
+
 **Objectives:** 
 1. Analyse global online journals and news articles to identify emerging risks and/or opportunities, enabling proactive decision-making
 2. Detect trends in industry discussions and government policies using keyword and topic analysis from public reports
