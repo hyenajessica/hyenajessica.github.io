@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Jessica
+author: Jessica (part of Team 7)
 title: "Applied Data Science Project Documentation"
 categories: ITD214
 ---
