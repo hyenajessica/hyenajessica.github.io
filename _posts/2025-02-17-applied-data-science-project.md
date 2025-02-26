@@ -14,7 +14,6 @@ Track and analyse customer feedback on iPhones to:
 - decide if to continue with iPhone future rollout
 
 ## Work Accomplished
-My work is organised around data preparation, data understanding and selection, data cleaning and transformation, modelling design, model assessment & evaluation. 
 
 ### Data Preparation
 First, I used Python to scrape online reviews from Apple’s distribution partners, including Trustpilot and Amazon.
