@@ -27,7 +27,7 @@ After collecting the data, I selected key fields relevant to the analysis. These
 - The review text, which is the most critical component for sentiment analysis.
 - Ratings, where available, to correlate user sentiment with scores.
 
-The word cloud visualization highlights frequently mentioned terms like “iPhone,” “app,” “screen,” and “advice.”
+The word cloud visualization highlights frequently mentioned terms like “iPhone,” “app,” “screen".
 ![image](https://github.com/user-attachments/assets/6e99985b-c91d-4ba1-9b5a-bd9d659aa52d)
 
 The word frequency distribution graph confirms the most discussed topics.
